@@ -2,7 +2,7 @@
 
 ### Getting started
 
-1.create a config/database.js file
+1.Create a config/database.js file
 
 2.Add this to connect to mysql db:
   ```sh
